@@ -35,7 +35,7 @@ public class DescriptionAdapter implements PlayerNotificationManager.MediaDescri
     @Nullable
     @Override
     public String getCurrentContentText(Player player) {
-        return "Streaming Radio";
+        return "Streaming audio";
     }
 
     @Nullable
